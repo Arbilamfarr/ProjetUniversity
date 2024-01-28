@@ -10,7 +10,7 @@
 <script src="./bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+bonjour a tous
 	<jsp:include page="Layout/Header.jsp" />
 
 
@@ -29,7 +29,7 @@
 						onclick="loadContent('TeacherInformation.jsp')">Professeur</a>
 					<a href="#"
 						class="list-group-item list-group-item-action my-2 rounded-2"
-						onclick="loadContent('Building.jsp')">Département</a>
+						onclick="loadContent('Building.jsp')">DÃ©partement</a>
 
 				</div>
 			</aside>
@@ -40,7 +40,7 @@
 				id="main-content">
 
 				<h2 class="d-flex justify-content-center align-items-center">Bienvenue
-					à la Faculté des Sciences Chouaib Doukkali</h2>
+					Ã  la FacultÃ© des Sciences Chouaib Doukkali</h2>
 
 			</main>
 		</div>
