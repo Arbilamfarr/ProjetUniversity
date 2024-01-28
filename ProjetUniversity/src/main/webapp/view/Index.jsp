@@ -10,7 +10,7 @@
 <script src="./bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-bonjour a tous
+
 	<jsp:include page="Layout/Header.jsp" />
 
 
